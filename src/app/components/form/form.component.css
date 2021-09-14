@@ -1,0 +1,13 @@
+.form-container {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.btn-margin {
+    margin-top: 5px;
+}
+
+.input-margin {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
